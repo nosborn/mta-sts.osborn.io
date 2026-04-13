@@ -1,5 +1,7 @@
 # mta-sts.osborn.io
 
+[![statichost.eu status](https://builder.statichost.eu/mta-sts-osborn-io/status.svg)](https://builder.statichost.eu/mta-sts-osborn-io/)
+
 Source for [https://mta-sts.osborn.io].
 
 ## License
